@@ -4,7 +4,7 @@ A basic 3D scanner made using a line laser and web cam and stepper motor control
 Parker Williamson
 8/15/16
 
-#To create a 3D scanner using this setup you need:
+To create a 3D scanner using this setup you need:
   1 line laser
   1 webcam
   1 stepper motor
